@@ -1,4 +1,4 @@
 # hello-world
-first repo \n
-I am aware \n
+first repo 
+I am aware 
 It's about time.....
